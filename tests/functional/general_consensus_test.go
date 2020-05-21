@@ -28,9 +28,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/jpmorganchase/istanbul-tools/container"
-	"github.com/jpmorganchase/istanbul-tools/genesis"
-	"github.com/jpmorganchase/istanbul-tools/tests"
+	"github.com/shiqinfeng1/istanbul-tools/container"
+	"github.com/shiqinfeng1/istanbul-tools/genesis"
+	"github.com/shiqinfeng1/istanbul-tools/tests"
 )
 
 var _ = Describe("TFS-01: General consensus", func() {

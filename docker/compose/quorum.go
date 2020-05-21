@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"text/template"
 
-	"github.com/jpmorganchase/istanbul-tools/docker/service"
+	"github.com/shiqinfeng1/istanbul-tools/docker/service"
 )
 
 type quorum struct {

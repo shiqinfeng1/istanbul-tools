@@ -23,10 +23,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/shiqinfeng1/istanbul-tools/crypto"
 
-	"github.com/jpmorganchase/istanbul-tools/client"
-	istcommon "github.com/jpmorganchase/istanbul-tools/common"
+	"github.com/shiqinfeng1/istanbul-tools/client"
+	istcommon "github.com/shiqinfeng1/istanbul-tools/common"
 )
 
 type Transactor interface {

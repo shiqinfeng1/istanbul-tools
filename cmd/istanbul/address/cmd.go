@@ -7,7 +7,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/p2p/enode"
 
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/shiqinfeng1/istanbul-tools/crypto"
 	"github.com/urfave/cli"
 )
 

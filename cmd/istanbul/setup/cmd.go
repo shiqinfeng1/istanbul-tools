@@ -29,9 +29,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/p2p/discv5"
-	istcommon "github.com/jpmorganchase/istanbul-tools/common"
-	"github.com/jpmorganchase/istanbul-tools/docker/compose"
-	"github.com/jpmorganchase/istanbul-tools/genesis"
+	istcommon "github.com/shiqinfeng1/istanbul-tools/common"
+	"github.com/shiqinfeng1/istanbul-tools/docker/compose"
+	"github.com/shiqinfeng1/istanbul-tools/genesis"
 	"github.com/urfave/cli"
 )
 

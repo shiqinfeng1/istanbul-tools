@@ -17,7 +17,7 @@
 package client
 
 import (
-	logging "github.com/jpmorganchase/istanbul-tools/log"
+	logging "github.com/shiqinfeng1/istanbul-tools/log"
 )
 
 var log = logging.New()

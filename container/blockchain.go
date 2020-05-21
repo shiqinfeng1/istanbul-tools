@@ -33,9 +33,9 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/phayes/freeport"
 
-	istcommon "github.com/jpmorganchase/istanbul-tools/common"
-	"github.com/jpmorganchase/istanbul-tools/docker/service"
-	"github.com/jpmorganchase/istanbul-tools/genesis"
+	istcommon "github.com/shiqinfeng1/istanbul-tools/common"
+	"github.com/shiqinfeng1/istanbul-tools/docker/service"
+	"github.com/shiqinfeng1/istanbul-tools/genesis"
 )
 
 const (

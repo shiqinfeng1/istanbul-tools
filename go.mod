@@ -1,4 +1,4 @@
-module github.com/jpmorganchase/istanbul-tools
+module github.com/shiqinfeng1/istanbul-tools
 
 replace github.com/ethereum/go-ethereum => github.com/jpmorganchase/quorum v2.4.0+incompatible
 

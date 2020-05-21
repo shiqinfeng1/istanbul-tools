@@ -27,11 +27,11 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	istcommon "github.com/jpmorganchase/istanbul-tools/common"
-	"github.com/jpmorganchase/istanbul-tools/container"
-	"github.com/jpmorganchase/istanbul-tools/k8s"
-	"github.com/jpmorganchase/istanbul-tools/metrics"
-	"github.com/jpmorganchase/istanbul-tools/tests"
+	istcommon "github.com/shiqinfeng1/istanbul-tools/common"
+	"github.com/shiqinfeng1/istanbul-tools/container"
+	"github.com/shiqinfeng1/istanbul-tools/k8s"
+	"github.com/shiqinfeng1/istanbul-tools/metrics"
+	"github.com/shiqinfeng1/istanbul-tools/tests"
 )
 
 var _ = Describe("TPS-01: Large amount of transactions", func() {

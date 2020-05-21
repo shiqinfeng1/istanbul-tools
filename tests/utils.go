@@ -19,7 +19,7 @@ package tests
 import (
 	"sync"
 
-	"github.com/jpmorganchase/istanbul-tools/container"
+	"github.com/shiqinfeng1/istanbul-tools/container"
 	"github.com/onsi/ginkgo"
 )
 

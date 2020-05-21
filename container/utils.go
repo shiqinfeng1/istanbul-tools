@@ -20,10 +20,10 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/consensus/istanbul"
 	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto/sha3"
+	"github.com/shiqinfeng1/istanbul-tools/crypto/sha3"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/jpmorganchase/istanbul-tools/cmd/istanbul/extra"
+	"github.com/shiqinfeng1/istanbul-tools/cmd/istanbul/extra"
 )
 
 func sigHash(header *types.Header) (hash common.Hash) {

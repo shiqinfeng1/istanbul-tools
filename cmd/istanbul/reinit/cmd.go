@@ -28,9 +28,9 @@ import (
   "github.com/ethereum/go-ethereum/common"
   "github.com/ethereum/go-ethereum/core"
   "github.com/ethereum/go-ethereum/core/types"
-  "github.com/ethereum/go-ethereum/crypto"
+  "github.com/shiqinfeng1/istanbul-tools/crypto"
   "github.com/ethereum/go-ethereum/rlp"
-  "github.com/jpmorganchase/istanbul-tools/genesis"
+  "github.com/shiqinfeng1/istanbul-tools/genesis"
   "github.com/urfave/cli"
 )
 

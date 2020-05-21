@@ -24,9 +24,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/jpmorganchase/istanbul-tools/charts"
-	istcommon "github.com/jpmorganchase/istanbul-tools/common"
-	"github.com/jpmorganchase/istanbul-tools/container"
+	"github.com/shiqinfeng1/istanbul-tools/charts"
+	istcommon "github.com/shiqinfeng1/istanbul-tools/common"
+	"github.com/shiqinfeng1/istanbul-tools/container"
 )
 
 func NewBlockchain(numOfValidators int, numOfExtraAccounts int, gaslimit uint64, isQourum bool, options ...Option) (bc *blockchain) {

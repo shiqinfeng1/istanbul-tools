@@ -22,7 +22,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/jpmorganchase/istanbul-tools/container"
+	"github.com/shiqinfeng1/istanbul-tools/container"
 )
 
 // Example

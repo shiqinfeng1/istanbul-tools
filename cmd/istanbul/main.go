@@ -20,11 +20,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jpmorganchase/istanbul-tools/cmd/istanbul/address"
-	"github.com/jpmorganchase/istanbul-tools/cmd/istanbul/extra"
-	"github.com/jpmorganchase/istanbul-tools/cmd/istanbul/reinit"
-	"github.com/jpmorganchase/istanbul-tools/cmd/istanbul/setup"
-	"github.com/jpmorganchase/istanbul-tools/cmd/utils"
+	"github.com/shiqinfeng1/istanbul-tools/cmd/istanbul/address"
+	"github.com/shiqinfeng1/istanbul-tools/cmd/istanbul/extra"
+	"github.com/shiqinfeng1/istanbul-tools/cmd/istanbul/reinit"
+	"github.com/shiqinfeng1/istanbul-tools/cmd/istanbul/setup"
+	"github.com/shiqinfeng1/istanbul-tools/cmd/utils"
 	"github.com/urfave/cli"
 )
 

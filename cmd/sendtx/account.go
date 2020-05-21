@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/shiqinfeng1/istanbul-tools/crypto"
 )
 
 type Account struct {

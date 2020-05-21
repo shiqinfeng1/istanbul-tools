@@ -28,7 +28,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/accounts"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/shiqinfeng1/istanbul-tools/crypto"
 	"github.com/ethereum/go-ethereum/p2p/discv5"
 	uuid "github.com/satori/go.uuid"
 )
