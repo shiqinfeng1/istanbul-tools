@@ -13,9 +13,6 @@ limitations under the License.
 
 // 编译选项：在 nacl 或 js 或 nocgo 并且是 kquorum 时编译
 
-// +build nacl js nocgo
-// +build kquorum
-
 package crypto
 
 import (
